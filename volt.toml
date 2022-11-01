@@ -1,9 +1,9 @@
-name = "<plugin-name>"
+name = "lapce-prisma"
 version = "0.0.0"
-author = "<your name>"
-display-name = "<plugin-display-name>"
-description = "<plugin-description>"
-wasm = "bin/<plugin-name>.wasm"
+author = "ghishadow"
+display-name = "Prisma"
+description = "Prisma lsp"
+wasm = "bin/lapce-prisma.wasm"
 
 [activation]
 language = []
